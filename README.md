@@ -8,6 +8,7 @@ If you can't view the jupyter notebook please use this link: https://nbviewer.ju
 
 <br/>
 ##### As the major tasks we found answers to following questions.#####
+
 1. what is the best month for sales and what are the sales in each month?
 2. what city have the heighest number of sales?
 3. what time is the best to advertisements to maximize likelihood of customer's buying products?
